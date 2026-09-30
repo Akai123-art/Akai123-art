@@ -12,15 +12,15 @@
 -  Exploring the intersection of Telecom + HealthTech in Kenya
 
 ###  Stack
-!Python, Pandas, Scikit-Learn, Matplotlib, SQL, Git,Power BI` `Telecom Systems`
+!Python, Pandas, Scikit-Learn, Matplotlib, SQL, Git,Telecom Systems.
 
 ### 📌 Featured Work
-- **[Public Health Analysis](https://github.com/Akai123-art/project.ipynb)** - [REPLACE: e.g., Analyzed maternal health data from X records to predict Y with 85% accuracy using Random Forest]
+- Public Health Analysis](https://github.com/Akai123-art/project.ipynb) -Analyzed public health datasets using Python & Pandas to identify health trends and support decision-making at Beacon of Hope.
 - More projects coming soon...
 
 ###  Let's Connect
-- ✉️ Email: [akaitreasure@gmail.com]
--  LinkedIn: [Treasure Akai]
+- Email: akaitreasure@gmail.com
+-  LinkedIn:Treasure Akai
 - 📍 Langata Rongai, Kenya
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akai123-art&color=blue)
